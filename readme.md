@@ -1,6 +1,6 @@
 # Cowsay.sh
 A simple script that uses cowsay and fortune to display a random message said by a random cowsay character every time the terminal is opened.
-
+![cow](https://th.bing.com/th/id/OIG3.boFAZvAK6bk.e7erhyvT?pid=ImgGn)
 ## Prerequisites
 Make sure you have cowsay and fortune installed on your system. Here are the installation instructions for Debian/Ubuntu and Red Hat/Fedora-based systems:
 
